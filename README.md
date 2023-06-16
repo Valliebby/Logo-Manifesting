@@ -9,7 +9,7 @@ Table of Content
 Installation 
 Clone this repository:
 
-git clone https://github.com/yourusername/svg-logo-maker.git
+git clone https://github.com/Valliebby/Logo-Manifesting
 cd Logo-Manifesting
 npm install
 

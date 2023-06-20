@@ -36,3 +36,7 @@ npm run test
 The tests cover the generateLogo function, shape creation, and user input handling in the colorChoice function.
 
 Node.js and SVG (Scalable Vector Graphics) defines vector-based graphics in XML format. program that generates logo using circle, square, or triangle user choices. I also used jest for testing and inquirer. User choices for text and shape color. Save files as logo.svg file. Fixed triangle parameters to fit initials inside. Uses both common color names and hexadecimal. Thank you and hope you enjoy!
+
+https://github.com/Valliebby/Logo-Manifesting/assets/119483866/f0c063e1-1281-4a93-8870-f0e5b5849ba0
+
+
